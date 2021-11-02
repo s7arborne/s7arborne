@@ -1,6 +1,6 @@
 ![Header](https://github.com/s7arborne/s7arborne/blob/main/logo-Sap.jpg)
 
-# Hey there 👋🏽, I'm Saptarshi!
+# Hey there 👋🏽, I'm Sappy!
 
 <p align="center">
 	<a href = 'https://github.com/s7arborne' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30px' /></a>
@@ -17,7 +17,7 @@
 
 <br>
 
-### Hi, I'm a developer with interest in web designing and art! 😎
+### Hi, I'm a developer with interest in web designing and art!
 
 <h2> 👨🏽‍💻 More about Me </h2>
 
@@ -72,6 +72,11 @@
 	</table>
 	<table>
         <a align="center" href="https://github.com/s7arborne">
+		<tr>
+            		<td>
+                		<img width="100%" height="auto" src="https://github-profile-trophy.vercel.app/?username=s7arborne&theme=tokyonight" alt="Trophies" />
+           		</td>
+        	</tr>
 		<tr>
 			<td>
 				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=s7arborne&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
